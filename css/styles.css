@@ -2,8 +2,26 @@
 YOUR STYLES
 *******************/
 
+h1 {
+    color: cadetblue;
+    text-transform: uppercase;    
+}
 
+.char1{
+    background: gray;
+    display: inline-block;
+    padding: 10px;
+    transform: rotate(30deg);
+    
+}
 
+.char9{
+    background: gray;
+    display: inline-flex;
+    padding: 10px;
+    transform: rotate(30deg);
+    
+}
 
 /********************
 MEDIA QUERIES
